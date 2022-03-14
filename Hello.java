@@ -9,7 +9,7 @@ public class Hello {
         if(firstArg.equalsIgnoreCase("cat"))
             output=cat();
         else if(firstArg.equalsIgnoreCase("bird"))
-            output=bird()
+            output=bird();
         System.out.println(output);
     }
 }
